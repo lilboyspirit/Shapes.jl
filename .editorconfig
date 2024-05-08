@@ -6,6 +6,9 @@ root = true
 [*.jl]
 indent_style = space
 indent_size = 4
+max_line_length = 100
+block_comment_start = "#="
+block_comment_end = "=#"
 
 [*]
 end_of_line = lf
