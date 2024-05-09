@@ -1,0 +1,14 @@
+name = "Shapes"
+uuid = "cda4fbfd-dfa9-4c8a-bf6b-c0db9bf59b0f"
+authors = ["Spirit <spirit@programmer.net> and contributors"]
+version = "1.0.0-DEV"
+repo = "https://github.com/lilboyspirit/Shapes.jl.git"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
