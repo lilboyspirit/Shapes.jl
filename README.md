@@ -1,7 +1,6 @@
 <!-- Markdown link & img dfn's -->
 [license]: LICENSE
 
-# [Shapes.jl](https://lilboyspirit.github.io/Shapes.jl/)
 > Simplify your geometry-related tasks with this versatile Julia package. providing tools for defining shapes of N-dimension and performing essential calculations.
 
 <div align="center">
