@@ -12,6 +12,7 @@
     <a target="_blank" href="https://discord.gg/Dn9rFtqZDg"><img src="https://img.shields.io/discord/1193258341854625882?color=000000&logo=discord&logoColor=white" alt="Spirit's discord server" /></a>
     <a target="_blank" href="https://lilboyspirit.github.io/Shapes.jl/stable"><img src="https://img.shields.io/badge/docs-stable-blue.svg" alt="Stable" /></a>
     <a target="_blank" href="https://lilboyspirit.github.io/Shapes.jl/dev/"><img src="https://img.shields.io/badge/docs-dev-blue.svg" alt="Dev" /></a>
+    <a target="_blank" href="https://github.com/JuliaTesting/Aqua.jl"><img src="https://raw.githubusercontent.com/JuliaTesting/Aqua.jl/master/badge.svg" alt="Aqua QA" /></a>
     <a href="https://github.com/lilboyspirit/Shapes.jl/actions/workflows/CI.yml?query=branch%3Amain"><img src="https://github.com/lilboyspirit/Shapes.jl/actions/workflows/CI.yml/badge.svg?branch=main" alt="Build Status" /></a>
   </p>
   Julia package for geometric calculations and shape drawing.
